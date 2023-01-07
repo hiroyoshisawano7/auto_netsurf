@@ -15,4 +15,4 @@ After installing the package, simply run the program above.
 $ ruby auto_netsurf.rb
 
 # AUTHOR
-Hiroyoshi Sawano
+Hiroyoshi Sawano　<sawano[atmark]kwansei.ac.jp>
