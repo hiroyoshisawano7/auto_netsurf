@@ -7,11 +7,11 @@ Enter the URL you want to view in line 9 of auto_netsurf.rb. You will then exper
 The number in line 43 is the maximum ByteSize of the web page that will be opened automatically without asking the user. If you are comfortable with the specs of your computer, you may set it to a larger value.
 
 # Usage
-First, install the package using gem.
-`$gem install open-uri`
-`$gem install nokogiri`
-`$gem install launchy`
-After installing the package, simply run the program above.
+First, install the package using gem.  
+`$gem install open-uri`  
+`$gem install nokogiri`  
+`$gem install launchy`  
+After installing the package, simply run the program above.  
 `$ruby auto_netsurf.rb`
 
 # AUTHOR
