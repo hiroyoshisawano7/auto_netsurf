@@ -8,11 +8,11 @@ The number in line 43 is the maximum ByteSize of the web page that will be opene
 
 # Usage
 First, install the package using gem.
-$gem install open-uri
-$gem install nokogiri
-$gem install launchy
+'$gem install open-uri'
+'$gem install nokogiri'
+'$gem install launchy'
 After installing the package, simply run the program above.
-$ruby auto_netsurf.rb
+'$ruby auto_netsurf.rb'
 
 # AUTHOR
 Hiroyoshi Sawano　<sawano[atmark]kwansei.ac.jp>
